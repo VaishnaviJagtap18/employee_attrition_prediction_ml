@@ -60,6 +60,17 @@ Best Model: The L1 Regularization (Lasso) Logistic Regression model performed be
 
 ---
 
+---
+
+## 🚀 Key Learning Outcomes
+- Understanding Logistic Regression for classification  
+- Impact of L1 vs L2 regularization  
+- Handling HR analytics datasets  
+- Evaluating models beyond accuracy  
+- Building reproducible ML workflows
+
+---
+
 ## 🛠️ Tech Stack
 - Python  
 - NumPy  
@@ -69,4 +80,3 @@ Best Model: The L1 Regularization (Lasso) Logistic Regression model performed be
 
 ---
 
-## 📂 Project Structure
